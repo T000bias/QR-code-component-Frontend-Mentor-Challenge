@@ -11,31 +11,25 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
   - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Desktop Version
+![](./images/Screenshot/Screenshot%20from%202022-05-31%2019-18-55.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+Mobile Version
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![](./images/Screenshot/Screenshot%20from%202022-05-28%2022-39-58.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ Frontend Mentor Solution](https://your-solution-url.com)
+- Live Site URL: [ QR Code Component](https://qr-code-component-frontend-mentor-challenge.vercel.app/)
 
 ## My process
 
@@ -43,49 +37,21 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
+- CUBE CSS
+- CSS RESET
 - Mobile-first workflow
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+On my next few projects, I need to go over concepts instead of haphazardly applying techniques. Most of my decisions came from an earlier project and I didn't fully understand most of my decisions there. I still want to periodically go back over this project and add small touches here and there, but for now, I am happy with my solution and the progress I made.
 
 ### Useful resources
 
-- [CUBE CSS](https://cube.fyi/) - lorem ipsum.
-- [A look at the CUBE CSS methodology](https://www.youtube.com/watch?v=NanhQvnvbR8) - lorem ipsum.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [CUBE CSS](https://cube.fyi/) - The main methodology used throughout this project.
+- [A look at the CUBE CSS methodology](https://www.youtube.com/watch?v=NanhQvnvbR8) - This video was used for reference.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Rodney Foster Designs](https://rodneyfosterdesigns.netlify.app/)
 - Frontend Mentor - [@T000bias](https://www.frontendmentor.io/profile/T000bias)
 - Twitter - [@Ui3er](https://twitter.com/Ui3er)
