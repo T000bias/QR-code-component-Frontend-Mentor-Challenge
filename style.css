@@ -113,7 +113,7 @@ p {
 }
 
 img {
-    width: 280px;
+    width: 260px;
     margin: 0 auto;
     margin-top: 12px;
 }
@@ -162,23 +162,21 @@ p {
 /* Step 8: Adding Block classes */
 .card {
     overflow: hidden;
-    max-width: 320px;
+    max-width: 290px;
 }
 
 .paragraph {
-    padding:0 1.1rem;
     margin-top: 1.1rem;
 }
 
-.header {
-    padding:0 1.1rem;
-}
+
 
 
 /* Challenge Classes */
 .attribution { 
     font-size: 1.2rem; 
-    text-align: center; 
+    text-align: center;
+    margin-top: -20rem;
 }
 
 .attribution a { 
@@ -189,5 +187,10 @@ p {
 @media (max-width:375px ) {
   body {
     width: 75%;
+    margin-bottom:
+  }
+
+  .attribution {
+    margin-top: -5rem;
   }
 }
